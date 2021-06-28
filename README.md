@@ -55,12 +55,15 @@ The movie database has been created.
 The movies and ratings tables have been created.
 
 The movies table data:
+
 ![Screen Shot 2021-06-28 at 1.01.03 PM](https://i.imgur.com/WmSfNlH.png)
 
 The ratings data is as below:
+
 ![Screen Shot 2021-06-28 at 1.10.00 PM](https://i.imgur.com/fMuWZAf.png)
 
 The DB details are as below:
+
 ![Screen Shot 2021-06-28 at 1.10.35 PM](https://i.imgur.com/6dr5T5h.png) 
 
 # Amazing Prime Video-Movie ETL-Summary
